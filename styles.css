@@ -1,2 +1,23 @@
 
-/* Your CSS Code here. */
+
+table,th,td{
+	font-family:arial;
+	font-weight:200;
+	font-size:14px;
+
+	
+	
+	border-collapse:collapse;
+	padding:2px 60px 2px 1px;
+	
+}
+th{
+	background-color:crimson;
+	color:antiquewhite;
+	
+}
+td{
+	background-color:antiquewhite;
+	color:crimson;
+	
+}
